@@ -2,7 +2,7 @@
 
 **Wander.ai** is a sleek, AI-powered travel planner that creates personalized **daily travel schedules** in seconds. Powered by **Google Gemini**, the app lets you generate hour-by-hour plans based on your destination, travel style (vibe), and number of days. Save, revisit, and share your trips — all in a beautifully designed interface.
 
-🚀 [Live Demo](https://wander-ai.vercel.app)
+🚀 [Live Demo](voyara-x4zm.vercel.app/)
 
 ---
 
